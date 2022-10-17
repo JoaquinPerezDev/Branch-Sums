@@ -8,7 +8,7 @@ Each *BinaryTree* node has an integer *value*, a *left* child node, and a *right
 
 
  Sample input: tree =    1<br>
-                       /   \<br>
+                       /   \
                       2     3<br>
                    /   \  /  \  <br>
                   4    5 6   7<br>
